@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1481832967 source:d:\documents\etudes\exia\a1\projet\système et programmation et procédurale\partage\programme dynamique nath\main.c
+	<unistd.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
